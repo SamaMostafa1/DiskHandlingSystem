@@ -11,10 +11,8 @@ Used to handle memory in the disk and check disk status and delete oldest file f
 
 
 ### Project Structure
-The Web Application is built using:
 ![alt text](https://github.com/SamaMostafa1/DiskHandlingSystem/blob/main/flow%20chart/flowchart.jpeg?raw=true)
-
-Programing languages:
+The Application is built using:
   - c++
   - Linux
   
