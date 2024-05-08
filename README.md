@@ -7,7 +7,7 @@ Disk handling system
 - [Project Structure](#project-structure)
 
 ### Introduction
-Used to handle memory in the disk and check file created time and delete oldest file 
+Used to handle memory in the disk and check disk status and delete oldest file file id disk is completed
 
 
 ### Project Structure
